@@ -1,2 +1,4 @@
 # React-WebSocket-Client-DS18b20
-React MobX State Tree WebSocket Client for DS18b20 Data
+React/MobX state tree WebSocket client to display DS18b20 temperature data from an ESP32 MicroPython WebSocket server.
+
+Documentation and YouTube video coming soon...
